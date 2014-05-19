@@ -13,6 +13,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [Parse setApplicationId:@"CdurYn8RJ6pkjQbkIBY74htfwR7atdDSpVWN4Zfv" clientKey:@"IZG8MbD9877gDba4EgthRUEncq0S1t6stfSKiQ9i"];
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayback error:nil];
     return YES;
 }
 							
