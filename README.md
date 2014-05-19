@@ -1,5 +1,7 @@
 SongDiscovery
 =============
+Authors: Davis Gossage, Sam Ginsburg, and Jesse Hu
+
 Winner of Apple sponsored hackathon (2013) at Duke https://colab.duke.edu/challenges/bigbyte
 Project made in ~3 days and was not version controlled (oops) mainly because the iOS part was just me (goose2460)
 Project was called 'The Road Not Taken' for the hackathon (why...)
